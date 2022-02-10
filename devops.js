@@ -76,7 +76,7 @@ function devops() {
     
     var vue = Bodies.polygon(750, 60, 3, 40, { render:{sprite: { texture: imgPath+'vue.png'}}});
             
-    var vault = Bodies.polygon(750, 60, 3, 30, { render:{sprite: { texture: imgPath+'vault.png'}}});
+    var vault = Bodies.polygon(740, 60, 3, 30, { render:{sprite: { texture: imgPath+'vault.png'}}});
     // var vaultf = Bodies.polygon(20, 60, 3, 30);
     
 
